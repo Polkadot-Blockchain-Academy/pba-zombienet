@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "@zombienet/orchestrator": "^0.0.50",
+    "@zombienet/utils": "^0.0.21"
+  }
+}
